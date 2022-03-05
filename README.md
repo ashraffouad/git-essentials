@@ -1,11 +1,5 @@
-# git-essentials
-Hello Starnger
+# Git Essentials / Git For Everybody
 
-## Deployment notes
-Hello Starnger
+> This is a course to teach you how to use everyday git.
 
-## How to use this repo notes
-Hello Starnger
-
-## Some new stuff in the readme
-some new text
+Course created by Ashraf Fouad
